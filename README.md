@@ -1,4 +1,4 @@
--Desarrollo web
+- Desarrollo web
 - Creador de mods
 - Siempre aprendiendo y enseñando lo que sé
 - Javascript, PHP, SQL, React Native y Reactjs
