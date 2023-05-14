@@ -1,5 +1,5 @@
 - Desarrollo web
-- Creador de mods
-- Siempre aprendiendo y enseñando lo que sé
+- Creador de mods en videojuegos
+- Siempre aprendiendo
 - Javascript, PHP, SQL, React Native y Reactjs
 - Experto bebedor de café
