@@ -6,5 +6,5 @@
 - 🧠 Siempre aprendiendo
 
 ## `ACTUALMENTE:`
-1. En servicio Social, desarrollando en PHP, Bootstrap, JQuery y Charts.js
+1. En servicio Social, desarrollando en PHP, MySQL, Bootstrap, JQuery y Charts.js
 1. Proyecto personal con C# <kbd>&rarr;</kbd><kbd>&rarr;</kbd>  [editorTextoC](https://github.com/antonydany/editorTextoC)
